@@ -1,4 +1,7 @@
+forecast.egg-info
+
+.ipynb_checkpoints
+
 /venv
-/data
-/artifacts
+
 *.csv

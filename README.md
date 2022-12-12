@@ -1,7 +1,7 @@
 # FORECASTING USER STATISTICS
 
 ### Virtual Environment
-You need to setup a virtual environment following the below instructions first.
+You need to setup a virtual environment following the below instructions first. (for MACOS, you need to use python instead of python3 and venv/Scripts/activate to activate venv on Windows, also you need to have python>=3.7)
 ```
 python3 -m venv venv
 source venv/bin/activate

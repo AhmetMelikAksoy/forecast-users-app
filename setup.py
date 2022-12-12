@@ -11,7 +11,7 @@ setup(
     description="Forecast number of users.",
     author="Ahmet Melik Aksoy",
     author_email="ahmetmelikaksoy@gmail.com",
-    python_requires=">=3.9",
+    python_requires=">=3.7",
     install_requires=[required_packages],
     py_modules=[]
 )
