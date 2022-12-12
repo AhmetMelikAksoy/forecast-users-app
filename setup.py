@@ -12,5 +12,6 @@ setup(
     author="Ahmet Melik Aksoy",
     author_email="ahmetmelikaksoy@gmail.com",
     python_requires=">=3.9",
-    install_requires=[required_packages]
+    install_requires=[required_packages],
+    py_modules=[]
 )
