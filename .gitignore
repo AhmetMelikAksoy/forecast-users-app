@@ -4,4 +4,9 @@ forecast.egg-info
 
 /venv
 
+/artifacts/*.pkl
+/artifacts/*.json
+
 *.csv
+*__pycache__
+*.pyc
