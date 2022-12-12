@@ -1,0 +1,7 @@
+{
+    "constant": true,
+    "order": 1,
+    "drop": true,
+    "fourier":2,
+    "test_size":24
+}

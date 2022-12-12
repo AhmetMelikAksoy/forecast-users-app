@@ -1,0 +1,16 @@
+{
+    "constant": true,
+    "order": 1,
+    "drop": true,
+    "fourier": 0,
+    "target_column": ["users"],
+    "feature_columns": ["newusers", "sessions", "crashes"],
+    "to_binary": ["crashes"],
+    "train_size": 0.85,
+    "fit_intercept": false,
+    "xgboost_best_params": {"n_estimators": 778, 
+                    "max_depth": 5, 
+                    "eta": 0.1352091570076323, 
+                    "subsample": 0.11726963415633468, 
+                    "colsample_bytree": 0.9757722519966129}
+}
